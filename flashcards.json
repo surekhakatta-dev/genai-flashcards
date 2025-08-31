@@ -1,0 +1,28 @@
+[
+  {
+    "topic": "Amazon SageMaker",
+    "question": "What is Amazon SageMaker?",
+    "answer": "Amazon SageMaker is a fully managed service that provides tools to build, train, and deploy machine learning models at scale."
+  },
+  {
+    "topic": "Amazon Rekognition",
+    "question": "What does Amazon Rekognition do?",
+    "answer": "Amazon Rekognition is a deep learning-based image and video analysis service that can detect objects, scenes, and faces."
+  },
+  {
+    "topic": "AWS Lambda",
+    "question": "How is AWS Lambda used in ML workflows?",
+    "answer": "AWS Lambda can trigger ML model inference or data preprocessing tasks without managing servers, making it ideal for event-driven ML pipelines."
+  },
+  {
+    "topic": "Amazon Comprehend",
+    "question": "What is Amazon Comprehend used for?",
+    "answer": "Amazon Comprehend is a natural language processing (NLP) service that uses machine learning to find insights and relationships in text."
+  },
+  {
+    "topic": "Amazon Forecast",
+    "question": "What problem does Amazon Forecast solve?",
+    "answer": "Amazon Forecast uses time-series data and machine learning to generate accurate forecasts for business metrics like demand or inventory."
+  }
+]
+
