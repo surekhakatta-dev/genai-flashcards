@@ -1,0 +1,10 @@
+[
+  {
+    "question": "You need to build a real-time fraud detection system using streaming data. Which AWS services would you use?",
+    "answer": "Amazon Kinesis for ingestion, AWS Lambda for processing, and Amazon SageMaker for model inference."
+  },
+  {
+    "question": "How can you monitor model drift in a deployed SageMaker model?",
+    "answer": "Use SageMaker Model Monitor to track data quality and performance metrics over time."
+  }
+]
