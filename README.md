@@ -1,4 +1,3 @@
-# genai-flashcards
 # 🧠 GenAI Flashcards for AWS ML
 
 A Streamlit-powered web app that generates intelligent flashcards for AWS Machine Learning topics using OpenAI's GPT-3.5. Designed to help learners reinforce key concepts through interactive Q&A cards, this tool blends GenAI with intuitive UI for fast, focused revision.
@@ -32,3 +31,4 @@ A Streamlit-powered web app that generates intelligent flashcards for AWS Machin
    ```bash
    git clone https://github.com/surekhakatta-dev/genai-flashcards.git
    cd genai-flashcards
+# genai-flashcards
